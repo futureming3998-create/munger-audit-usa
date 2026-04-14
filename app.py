@@ -27,7 +27,7 @@ with st.sidebar:
     st.subheader("🚀 Upgrade to Pro")
     st.write("Unlock unlimited deep-audits and professional PDF reports.")
     #  这里是 Gumroad 收银台链接
-   st.link_button("Get Munger Value Pro", "https://futuristicmind.gumroad.com/l/paciw", type="primary")
+    st.link_button("Get Munger Value Pro", "https://futuristicmind.gumroad.com/l/paciw", type="primary")
     
     st.markdown("---")
     st.caption("Data powered by Yahoo Finance real-time API.")
